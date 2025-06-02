@@ -1,0 +1,7 @@
+aws_region = "us-east-1"
+vpc_cidr = "192.168.1.0/26"
+private_subnet = "192.168.1.0/27"
+public_subnet  = "192.168.1.32/27"
+user_source_ip = "0.0.0.0/0"
+az             = "us-east-1a"
+ssh_pubkey = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEj0bp8pTrPRupOj1t0LhLuzkVVTs1h8jIrlnGHFiMY5 seila.becirovic@gmail.com"
